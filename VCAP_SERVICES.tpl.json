@@ -1,0 +1,27 @@
+{
+    "user-provided": [
+        {
+            "credentials": {
+                "password": "xxxxx",
+                "url": "xxxxx",
+                "username": "xxxxx"
+            },
+            "syslog_drain_url": "",
+            "label": "user-provided",
+            "name": "mongo-service",
+            "tags": []
+        },
+        {
+            "credentials": {
+                "BOT_TOKEN": "xxxxx",
+                "CLIENT_ID": "xxxxx",
+                "CLIENT_SECRET": "xxxxx",
+                "SLACK_TOKEN": "xxxxx"
+            },
+            "syslog_drain_url": "",
+            "label": "user-provided",
+            "name": "slack-service",
+            "tags": []
+        }
+    ]
+}

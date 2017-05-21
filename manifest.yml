@@ -1,0 +1,7 @@
+---
+applications:
+- name: standy-bot
+  random-route: false
+  memory: 256M
+  disk_quota: 1024M
+  buildpack: sdk-for-nodejs

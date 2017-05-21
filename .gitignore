@@ -1,0 +1,9 @@
+node_modules
+.DS_Store*
+.hubot_history
+slack-api.txt
+bot/botdb/
+test/botdb/
+VCAP_SERVICES.json
+npm-debug.log
+yarn.lock*
